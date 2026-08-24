@@ -16,9 +16,9 @@ Noise intensities are passed as integers (`1` = one application pass). Only flag
 
 ```
 noise_simulation/
-├── ADD_NOISE.md              # Usage guide (this file)
-├── noisy_case.md             # Full selected-case notes
-├── script.sh                 # Example batch commands for all benchmarks
+├── ADD_NOISE.md                      # Usage guide (this file)
+├── real_world_noisy_prompts.jsonl    # Requirement-level Noise
+├── script.sh                         # Example batch commands for all benchmarks
 ├── add_noise_HumanEval.py
 ├── add_noise_LeetCode.py
 └── add_noise_MBPP.py
