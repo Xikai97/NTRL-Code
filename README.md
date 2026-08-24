@@ -2,7 +2,7 @@
 
 NTRL-Code extends [verl](https://github.com/volcengine/verl) for test-time reinforcement learning on noisy code-generation benchmarks (HumanEval, LeetCode, MBPP).
 
-Noisy prompts are produced with the scripts in [`./noise_simulation/`](../noise_simulation/ADD_NOISE.md).
+Noisy prompts are produced with the scripts in [`./noise_simulation/`](./noise_simulation/ADD_NOISE.md).
 
 ---
 
