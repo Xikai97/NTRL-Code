@@ -1,10 +1,15 @@
 # NTRL-Code
 
+## News
+- **[2026-08-20]** NTRL-Code has been accepted as a Main Conference paper in [EMNLP2026](https://2026.emnlp.org/)!
+
+---
+
+## Introduction
+
 NTRL-Code extends [verl](https://github.com/volcengine/verl) for test-time reinforcement learning on noisy code-generation benchmarks (HumanEval, LeetCode, MBPP).
 
 Noisy prompts are produced with the scripts in [`./noise_simulation/`](./noise_simulation/ADD_NOISE.md).
-
----
 
 ## Environment setup
 
